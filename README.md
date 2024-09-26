@@ -22,4 +22,5 @@ SQLAlchemy         2.0.35
 typing_extensions  4.12.2
 Werkzeug           3.0.4
 WTForms            3.1.2
-Y la instalación de la nase de datos
+También se necesitará la instalación del archivo "sap_flask.sql" en la base de datos correspondiente
+Los archivos con terminación ".html" tendrán que ser ubicados en una carpeta denominada Templates
